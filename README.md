@@ -1,5 +1,6 @@
 # FAQ-VUEX
 
+Project developed for the challenge of the course.
 > Demo: https://faq-vuex.herokuapp.com/
 
 ## Project setup
